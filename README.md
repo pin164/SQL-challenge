@@ -8,5 +8,3 @@ I added two columns to the employees table to add date fields
 
 
             
-I used google, stack and CanChat (https://canchat.dsai-sdia.ssc-spc.cloud-nuage.canada.ca/)to resolve issues
-The BootCamp TA - reminded me about composit primary keys
